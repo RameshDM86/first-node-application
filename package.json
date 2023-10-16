@@ -1,0 +1,22 @@
+{
+  "name": "ram",
+  "version": "1.0.0",
+  "description": "ramesh first application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RameshDM86/first-node-application.git"
+  },
+  "author": "ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RameshDM86/first-node-application/issues"
+  },
+  "homepage": "https://github.com/RameshDM86/first-node-application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
